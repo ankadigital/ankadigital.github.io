@@ -1,1 +1,3 @@
-alert('test')
+
+console.log("anka.uk");
+
